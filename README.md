@@ -1,2 +1,4 @@
-# Guessing-number-Game-using-C
-Guessing number Game using C
+
+Guessing number Game using C ++
+
+See file other file for details.
