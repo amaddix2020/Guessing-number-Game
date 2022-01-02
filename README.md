@@ -1,4 +1,4 @@
 
 Guessing number Game using C ++
 
-See other file for details.
+Run code in C++ environment like CodeBlocks, Visual Studio code with C++ extentsion etc
